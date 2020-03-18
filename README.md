@@ -18,7 +18,7 @@
 ## 如何运行
 ```
 # 克隆项目到本地
-git clone https://github.com/Geek-James/ddBuy.git
+git clone https://github.com/guiwen-cpu/store-app.git
 
 # 进入项目目录
 cd 项目名称
