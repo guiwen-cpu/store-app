@@ -21,7 +21,7 @@
 git clone https://github.com/guiwen-cpu/store-app.git
 
 # 进入项目目录
-cd 项目名称
+cd store-app
 
 # 安装依赖
 npm install
