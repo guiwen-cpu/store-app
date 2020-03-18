@@ -3,10 +3,15 @@
 
 
 ## 前序准备 
-你需要在本地安装 node 和 git。本项目技术栈基于 [ES2015 +](https://es6.ruanyifeng.com/) 、[vue](https://cn.vuejs.org/index.html)、[vuex](https://vuex.vuejs.org/zh/guide/)、[vue-router](https://router.vuejs.org/zh/) 、[vue-cli](https://github.com/vuejs/vue-cli) 、[axios](https://github.com/axios/axios) 和 [vant-ui](https://youzan.github.io/vant/#/zh-CN/)，模拟Mock接口获取数据，提前了解和学习这些知识会对使用本项目有很大的帮助。
-
+本项目技术栈基于 [ES2015 +](https://es6.ruanyifeng.com/) 、[vue](https://cn.vuejs.org/index.html)、[vuex](https://vuex.vuejs.org/zh/guide/)、[vue-router](https://router.vuejs.org/zh/) 、[vue-cli](https://github.com/vuejs/vue-cli) 、[axios](https://github.com/axios/axios) 和 [vant-ui](https://youzan.github.io/vant/#/zh-CN/)，模拟Mock接口获取数据，提前了解和学习这些知识会对使用本项目有很大的帮助。
+## 开发环境
+* vscode编辑器
+* node （10.16+）
+* git
+* vue-cli(4.1)
+* vue（2.6.10）
 ## 项目开发 
-* 利用vue/cli脚手架工具快速搭建单页面应用
+* 利用vue-cli脚手架工具快速搭建单页面应用
 * 优化全家桶单页面应用出现的首屏加载白屏的体验问题
 * 模拟mock接口获取数据
 * axios全局拦截和路由守卫处理
